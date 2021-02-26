@@ -1,0 +1,33 @@
+body{
+    background: rgba(255, 99, 71, 0.5);
+
+    width: 800px;
+    margin: auto;
+    font-family:Copperplate Gothic Light,css;
+}
+img{
+    width: 120px;
+    height: 120px;  
+}
+#image{
+    float: left;
+    padding: 0px 50px;
+}
+.written a{
+    display: inline-block;
+    width: 150px;
+    padding:0px 0px;
+    background: rgb(238, 130, 238);
+
+}
+.written p{
+    font-size:14px;
+    font-family:Baskerville Old Face,css;
+}
+form{
+    margin-top: 80px;
+}
+input{
+    background: rgb(173, 228, 238);
+    padding: 5px 20px;
+}
